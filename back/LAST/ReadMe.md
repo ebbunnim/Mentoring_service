@@ -1,5 +1,11 @@
 # ReadMe
 
+# 구동
+- LAST 디렉토리 내 ./gradlew bootRun
+- http://localhost:8080/swagger-ui.html
+
+
+
 ##### 자취맨 자소서 분석 알고리즘 테스트
 
 * 자소서 내용 예시 (잡코리아 샘플 자소서)
