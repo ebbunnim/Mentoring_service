@@ -33,6 +33,19 @@
 
 ![erd](./readme-asset/db.png)
 
+
+### 서비스 개요
+![](./meta_description/1.JPG)
+![](./meta_description/2.JPG)
+![](./meta_description/3.JPG)
+![](./meta_description/4.JPG)
+![](./meta_description/5.JPG)
+![](./meta_description/6.JPG)
+![](./meta_description/7.JPG)
+![](./meta_description/8.JPG)
+![](./meta_description/9.JPG)
+
+
 ### 화면 예시
 
 https://ovenapp.io/view/1mcbsPtgJYhj2PLbjGQT6zQY19CNXMDP/KzEmI
