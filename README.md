@@ -1,5 +1,3 @@
-# 카카오엔터프라이즈 포트폴리오 첫번째 동영상 누락 대체 URL 
-https://github.com/ebbunnim/ssafy_pjt_1
 
 
 # 자가분석 취업 플랫폼
